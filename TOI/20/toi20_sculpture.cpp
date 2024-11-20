@@ -50,11 +50,3 @@ signed main(){
     for(auto e:idx[ans]) cout << e << " ";
     return 0;
 }
-/*
-5
-2 15
-4 5
-2 6
-7 11
-8 10
-*/
